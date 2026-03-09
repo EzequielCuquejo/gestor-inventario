@@ -8,7 +8,7 @@ Un proyecto de consola desarrollado en Java para simular las operaciones básica
 * **Estructuras de Datos:** Manejo de Colecciones (`ArrayList`).
 
 ## Cómo ejecutar el proyecto
-1. Clonar este repositorio en tu máquina local.
-2. Abrir el proyecto en tu IDE de preferencia (como NetBeans, IntelliJ o Eclipse).
+1. Clonar este repositorio en tu pc.
+2. Abrir el proyecto en tu IDE de preferencia.
 3. Ejecutar el archivo `Main.java` para iniciar la simulación en la consola.
 
